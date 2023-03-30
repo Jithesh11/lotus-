@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">f7b38c5f47712110c2107af3836d430d</sp_column>
+        <sp_widget display_value="Test Lotus Widet Big">2aa03f0347712110c2107af3836d43a2</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>Pramod.Anish</sys_created_by>
+        <sys_created_on>2023-03-30 14:32:01</sys_created_on>
+        <sys_id>79c3401747712110c2107af3836d43e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test_Lotus" source="x_830584_test_lotu">32a5ab0347312110c2107af3836d4364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_Lotus">32a5ab0347312110c2107af3836d4364</sys_scope>
+        <sys_update_name>sp_instance_79c3401747712110c2107af3836d43e8</sys_update_name>
+        <sys_updated_by>Pramod.Anish</sys_updated_by>
+        <sys_updated_on>2023-03-30 14:32:01</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=79c3401747712110c2107af3836d43e8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test_Lotus">32a5ab0347312110c2107af3836d4364</application>
+        <file_path/>
+        <instance_id>26e4df41dba6f0109df22f17d4961931</instance_id>
+        <instance_name>dev119243</instance_name>
+        <name>sp_instance_79c3401747712110c2107af3836d43e8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">f7b38c5f47712110c2107af3836d430d</sp_column><sp_widget display_value="Test Lotus Widet Big">2aa03f0347712110c2107af3836d43a2</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>Pramod.Anish</sys_created_by><sys_created_on>2023-03-30 14:32:01</sys_created_on><sys_id>79c3401747712110c2107af3836d43e8</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Test_Lotus" source="x_830584_test_lotu">32a5ab0347312110c2107af3836d4364</sys_package><sys_policy/><sys_scope display_value="Test_Lotus">32a5ab0347312110c2107af3836d4364</sys_scope><sys_update_name>sp_instance_79c3401747712110c2107af3836d43e8</sys_update_name><sys_updated_by>Pramod.Anish</sys_updated_by><sys_updated_on>2023-03-30 14:32:01</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=79c3401747712110c2107af3836d43e8"/></record_update>]]></payload>
+        <payload_hash>928331788</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>cfaf2b8f47312110c2107af3836d4337</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Pramod.Anish</sys_created_by>
+        <sys_created_on>2023-03-30 14:32:01</sys_created_on>
+        <sys_id>39c3401747712110c2107af3836d43ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18732eec4420000001</sys_recorded_at>
+        <sys_updated_by>Pramod.Anish</sys_updated_by>
+        <sys_updated_on>2023-03-30 14:32:01</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>71c34017c6712110888e174b79abc7ea</update_guid>
+        <update_guid_history>71c34017c6712110888e174b79abc7ea:928331788</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">d637045747b12110c2107af3836d436b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jithesh.Krishnan</sys_created_by>
+        <sys_created_on>2023-03-30 14:47:04</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>34269507381e44928b2c57f9b537c9c4</sys_id>
+        <sys_metadata>79c3401747712110c2107af3836d43e8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test_Lotus" source="x_830584_test_lotu">32a5ab0347312110c2107af3836d4364</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test_Lotus">32a5ab0347312110c2107af3836d4364</sys_scope>
+        <sys_scope_delete display_value="">0208678e12ff4e7c800d95b1dcb15b04</sys_scope_delete>
+        <sys_update_name>sp_instance_79c3401747712110c2107af3836d43e8</sys_update_name>
+        <sys_update_version display_value="sp_instance_79c3401747712110c2107af3836d43e8">39c3401747712110c2107af3836d43ea</sys_update_version>
+        <sys_updated_by>Jithesh.Krishnan</sys_updated_by>
+        <sys_updated_on>2023-03-30 14:47:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
