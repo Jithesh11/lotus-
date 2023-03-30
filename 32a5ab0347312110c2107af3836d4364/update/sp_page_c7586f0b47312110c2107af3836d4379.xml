@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>lotus</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>Jithesh.Krishnan</sys_created_by>
+        <sys_created_on>2023-03-30 12:32:27</sys_created_on>
+        <sys_id>c7586f0b47312110c2107af3836d4379</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>lotus</sys_name>
+        <sys_package display_value="Test_Lotus" source="x_830584_test_lotu">32a5ab0347312110c2107af3836d4364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_Lotus">32a5ab0347312110c2107af3836d4364</sys_scope>
+        <sys_update_name>sp_page_c7586f0b47312110c2107af3836d4379</sys_update_name>
+        <sys_updated_by>Jithesh.Krishnan</sys_updated_by>
+        <sys_updated_on>2023-03-30 12:32:27</sys_updated_on>
+        <title>lotus test page</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=c7586f0b47312110c2107af3836d4379"/>
+</record_update>
